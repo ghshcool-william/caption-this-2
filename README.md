@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: November 4, 2025[1;5D[1;5D[1;5D[D[D[D-5, 2025
+- Facilitator: @williamt-infomagnus
 
 ## Class Resources
 
